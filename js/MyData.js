@@ -141,6 +141,7 @@ class MyData {
                 title: "lsfasdd",
                 info: "c"
             }
+            
         ];
 
         this.itemsTwo = [
